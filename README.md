@@ -1,4 +1,4 @@
-# **Seq2Seq Model**
+# **Seq2Seq**
 
 Welcome to this repository. It is to create sequence-sequence models for language translation, using PyTorch and Flax libraries for the RNN and transformer implementations respectively.
 
